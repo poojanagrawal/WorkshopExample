@@ -10,3 +10,4 @@ setup(name='WorkshopExample',
       install_requires=['numpy'],
       packages=find_packages(exclude=('tests', 'doc', 'data'))
       )
+
